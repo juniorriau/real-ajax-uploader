@@ -2,6 +2,4 @@
 ==================
 Real Ajax Uploader 3.0 - The HTML5 Ajax Uploader
 
-Migrating on git.... 
-
-Ajax multiple file uploader
+Real Ajax Uploader is a HTML5 uploader, for uploading multiple files with ajax on the web. It was born in september 2010 when Firefox 3.5 added the mozSlice method and Files api.
