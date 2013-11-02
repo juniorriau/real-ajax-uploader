@@ -15,7 +15,7 @@
 $MAX_FILES_SIZE 	= null;
 $ALLOW_EXTENSIONS 	= null;
 $UPLOAD_PATH 		= null;
-$OVERRIDE 			= false;
+$OVERRIDE 		= false;
 $ALLOW_DELETE		= true;
 
 #Set email notification, to send an email on upload finish
