@@ -5,7 +5,7 @@
 
 Real Ajax Uploader is a HTML5 uploader, for uploading multiple files with ajax on the web. It was born in september 2010 when Firefox 3.5 added the mozSlice method and Files api.
 
-Goals of Real Ajax Uploader:
+#### Goals of Real Ajax Uploader:
 -   Keep code simple and small
 -   Support all modern and mobile browsers
 -   Simple for users to integrate
